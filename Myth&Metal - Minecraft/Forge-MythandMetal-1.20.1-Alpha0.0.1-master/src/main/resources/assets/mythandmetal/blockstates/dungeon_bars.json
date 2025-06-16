@@ -1,0 +1,100 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_post_ends_lava"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_post_lava"
+      },
+      "when": {
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_cap_lava"
+      },
+      "when": {
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_cap_lava",
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_cap_alt_lava"
+      },
+      "when": {
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "west": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_cap_alt_lava",
+        "y": 90
+      },
+      "when": {
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_side_lava"
+      },
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_side_lava",
+        "y": 90
+      },
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_side_alt_lava"
+      },
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mythandmetal:block/barmodels/iron_bars_side_alt_lava",
+        "y": 90
+      },
+      "when": {
+        "west": "true"
+      }
+    }
+  ]
+}

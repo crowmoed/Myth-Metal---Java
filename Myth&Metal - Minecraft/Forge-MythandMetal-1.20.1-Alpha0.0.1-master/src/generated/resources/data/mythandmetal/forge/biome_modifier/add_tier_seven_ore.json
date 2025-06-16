@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "mythandmetal:mythril_ore_t7_placed",
+  "step": "underground_ores"
+}

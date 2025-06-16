@@ -1,0 +1,40 @@
+[04Jun2025 01:14:36.627] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\notcr\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.11, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, mythandmetal, --all, --output, C:\Users\notcr\OneDrive\Documents\GitHub\Forge-MythandMetal-1.20.1-Alpha0.0.1\src\generated\resources, --existing, C:\Users\notcr\OneDrive\Documents\GitHub\Forge-MythandMetal-1.20.1-Alpha0.0.1\src\main\resources, --mixin.config, mixins.mythandmetal.json]
+[04Jun2025 01:14:36.640] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[04Jun2025 01:14:36.781] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[04Jun2025 01:14:36.816] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/notcr/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[04Jun2025 01:14:37.131] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\notcr\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.11\427f703e065645e6ab0d183bfaee6253f474393d\javafmllanguage-1.20.1-47.3.11.jar is missing mods.toml file
+[04Jun2025 01:14:37.133] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\notcr\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.11\f59825d2e5d797a1bb3699876861d9f5cd616ad0\lowcodelanguage-1.20.1-47.3.11.jar is missing mods.toml file
+[04Jun2025 01:14:37.135] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\notcr\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.11\6624469b892cf7349addc8c7272ba0f9c1628e3f\mclanguage-1.20.1-47.3.11.jar is missing mods.toml file
+[04Jun2025 01:14:37.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\notcr\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.11\19742efc9b2d4063f19579d80f99579725e034eb\fmlcore-1.20.1-47.3.11.jar is missing mods.toml file
+[04Jun2025 01:14:37.280] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[04Jun2025 01:14:38.637] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Jun2025 01:14:38.637] [main/ERROR] [mixin/]: Mixin config mixins.mythandmetal.json does not specify "minVersion" property
+[04Jun2025 01:14:38.640] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\notcr\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, mythandmetal, --all, --output, C:\Users\notcr\OneDrive\Documents\GitHub\Forge-MythandMetal-1.20.1-Alpha0.0.1\src\generated\resources, --existing, C:\Users\notcr\OneDrive\Documents\GitHub\Forge-MythandMetal-1.20.1-Alpha0.0.1\src\main\resources]
+[04Jun2025 01:14:38.930] [main/INFO] [mixin/]: Remapping refMap terrablender.refmap.json using C:\Users\notcr\OneDrive\Documents\GitHub\Forge-MythandMetal-1.20.1-Alpha0.0.1\build\createSrgToMcp\output.srg
+[04Jun2025 01:14:38.931] [main/INFO] [mixin/]: Remapping refMap terrablender.refmap.json using C:\Users\notcr\OneDrive\Documents\GitHub\Forge-MythandMetal-1.20.1-Alpha0.0.1\build\createSrgToMcp\output.srg
+[04Jun2025 01:14:39.460] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [mythandmetal]
+[04Jun2025 01:14:43.105] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.11, for MC 1.20.1 with MCP 20230612.114412
+[04Jun2025 01:14:43.110] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.11 Initialized
+[04Jun2025 01:14:43.151] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Jun2025 01:14:43.152] [modloading-worker-0/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Jun2025 01:14:43.152] [modloading-worker-0/INFO] [terrablender/]: Registered region mythandmetal:overworld_1 to index 1 for type OVERWORLD
+[04Jun2025 01:14:43.152] [modloading-worker-0/INFO] [terrablender/]: Registered region mythandmetal:overworld_2 to index 2 for type OVERWORLD
+[04Jun2025 01:14:43.152] [modloading-worker-0/INFO] [terrablender/]: Registered region mythandmetal:overworld_3 to index 3 for type OVERWORLD
+[04Jun2025 01:14:43.767] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/notcr/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.11_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.11_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[04Jun2025 01:14:43.768] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/notcr/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.11_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.11_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[04Jun2025 01:14:44.050] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[04Jun2025 01:14:44.076] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 24 ms
+[04Jun2025 01:14:44.076] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: mythandmetal
+[04Jun2025 01:14:44.108] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: mythandmetal finished after 32 ms
+[04Jun2025 01:14:44.109] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[04Jun2025 01:14:44.141] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 32 ms
+[04Jun2025 01:14:44.141] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id mythandmetal
+[04Jun2025 01:14:44.168] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id mythandmetal finished after 26 ms
+[04Jun2025 01:14:44.168] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[04Jun2025 01:14:44.201] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 32 ms
+[04Jun2025 01:14:44.201] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id mythandmetal
+[04Jun2025 01:14:44.203] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id mythandmetal finished after 1 ms
+[04Jun2025 01:14:44.203] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id mythandmetal
+[04Jun2025 01:14:44.205] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id mythandmetal finished after 1 ms
+[04Jun2025 01:14:44.205] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 154 ms
+[04Jun2025 01:14:44.213] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 110, old count: 110, new count: 111, removed stale: 0, written: 2
